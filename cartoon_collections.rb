@@ -12,11 +12,4 @@ def list_dwarves(array)
 end
 list_dwarves(["Bashful", "Doc", "Dopey", "Grumpy", "Happy", "Sleepy", "Sneezy"])
 
-# def roll_call_dwarves(dwarves)
-#   dwarves.map.with_index do |dwarf, i|
-#     "#{i + 1}. #{dwarf}"
-#   end.join("\n")
-# end
 
-# dwarves = %w{Doc Dopey Bashful Grumpy}
-# puts roll_call_dwarves(dwarves)
